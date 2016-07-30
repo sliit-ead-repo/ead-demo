@@ -1,0 +1,1 @@
+This project is created to help students learn how to work with git
