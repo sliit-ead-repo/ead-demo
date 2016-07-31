@@ -1,4 +1,2 @@
 # ead-demo
-
-
-k
+This is a demo repository created for training purposes
